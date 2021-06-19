@@ -6,6 +6,9 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+- Currently, I work as a Technical Support Engineer at Duo Security.  In my free time, I've been working on a project to learn more about working with SQL databases, a better understanding of object-oriented programming, and design patterns.
+
+- 
 
 <!---
 - 🌱 I’m currently learning ...
