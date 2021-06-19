@@ -7,9 +7,12 @@
 </a>
 <br/>
 
+### About Me ☕
 - Currently, I work as a Technical Support Engineer at Duo Security.  In my free time, I've been working on a project to learn more about working with SQL databases, a better understanding of object-oriented programming, and design patterns.
 
-- 
+- My interests include home theater, mechanical keyboards, homelabbing, fitness, flashlights, and programming.
+
+- After my current project, I'm interested in contributing to open-source projects that help improve accessibility.
 
 <!---
 - 🌱 I’m currently learning ...
