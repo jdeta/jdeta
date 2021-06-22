@@ -15,7 +15,7 @@
 - After my current project, I'm interested in contributing to open-source projects that help improve accessibility.
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdeta)](https://github.com/jdeta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdeta?theme=dracula)]
 
 <!---
 - 🌱 I’m currently learning ...
