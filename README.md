@@ -8,8 +8,7 @@
 <br/>
 
 ### About Me ☕
-- Currently, I work as a Technical Support Engineer at Duo Security.  In my free time, I've been working on a project to learn more about working with SQL databases, a better understanding of object-oriented programming, and design patterns.
-
+- Currently, I work as a Application Engineer at Duo Security.  I'm currently working on a web application that automatically assigns chores and notifies you via slack.  This app is being developed with a TDD approach.
 - My interests include home theater, mechanical keyboards, homelabbing, fitness, flashlights, and programming.
 
 - After my current project, I'm interested in contributing to open-source projects that help improve accessibility.
