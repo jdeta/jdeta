@@ -8,7 +8,7 @@
 <br/>
 
 ### About Me ☕
-- Currently, I work as a Application Engineer at Duo Security.  I'm currently working on a web application that automatically assigns chores and notifies you via slack.  This app is being developed with a TDD approach.
+- Currently, I work as a Application Engineer at Duo Security.  I'm learning swift and contributing to my team's macOS app.
 - My interests include home theater, mechanical keyboards, homelabbing, fitness, flashlights, and programming.
 
 - After my current project, I'm interested in contributing to open-source projects that help improve accessibility.
